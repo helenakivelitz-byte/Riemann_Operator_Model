@@ -1,0 +1,2 @@
+mode,eigenfile,L,n_eigs,E_min,E_max,lambda_hat,c_hat,auto_rescale,corr_max,corr_lag,null_thr,tmax,dt,remove_dc
+eigen,eigenvalues_clean.txt,100.0,400,0.172825235788,26108.3786758,200.23324625785307,-19.999999999999652,True,0.9999999999999997,61,0.9999999999999997,5.0,0.002,True
