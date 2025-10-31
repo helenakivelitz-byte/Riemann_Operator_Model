@@ -1,0 +1,22 @@
+# config/parameters.yaml
+L: 12.0
+n_points: 1201
+epsilon: 0.1
+gamma: 0.35
+eta: 0.25
+sigma: 0.5
+rho_min: 1.0e-6
+N_states: 200
+beta: 0.5
+tol: 1.0e-6
+max_iter: 200
+temperature: null
+s_values: [1.5, 2.0, 2.5, 3.0]
+out_dir: "data"
+
+# New SCF-specific parameters
+scf:
+  max_iter: 200
+  tol: 1.0e-5
+  mixing: 0.5
+  N_states: 32

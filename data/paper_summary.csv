@@ -1,0 +1,15 @@
+metric,value
+L,
+n_points,
+||V_prim||∞,
+||V_grav||∞,
+||V_exch||∞,
+K_raw,1199
+K_rescaled,200
+lambda_used,0.15915494309189535
+lambda_theoretical,0.15915494309189535
+Emax,46422.84246214601
+count,1079
+weyl_leading,754.4121545303176
+KS_GOE,0.14493834324156052
+KS_Poisson,0.2122091755588152
